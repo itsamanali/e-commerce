@@ -1,6 +1,3 @@
-Certainly! Below is a sample GitHub README file for your Spring Boot and Hibernate-based E-commerce API service project. Please customize it to fit your project's specific details and requirements.
-
----
 
 # E-commerce API Service
 
@@ -80,7 +77,7 @@ The application will start on `http://localhost:8080`.
 
 ## API Documentation
 
-- API documentation and endpoints can be found at `http://localhost:8080/swagger-ui.html` when the application is running.
+- API documentation and endpoints can be found at `http://localhost:8080/get-all` when the application is running.
 - You can also explore and test the API using tools like [Swagger](https://swagger.io/) or [Postman](https://www.postman.com/).
 
 ## Contributing
@@ -93,10 +90,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your fork.
 5. Open a pull request to this repository.
 
-## License
+## ER Diagram 
+![image](https://github.com/itsamanali/e-commerce/assets/105538460/41c729de-0c53-4757-b5ce-7eb520b0dd6f)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to replace the placeholders (`yourusername`, `your_username`, `your_password`) and customize the content to match your project's specific details and requirements. This README provides a basic structure, and you can add more sections or details as needed.
+
