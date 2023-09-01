@@ -23,7 +23,7 @@ public class CustomerTransformer {
 
         return CustomerResponseDto.builder()
                 .name(customer.getName())
-                .message("Welcome" + customer.getName()+ " to Amazon !!!")
+                .message("Welcome " + customer.getName()+ " to Amazon !!!")
                 .build();
     }
 }
